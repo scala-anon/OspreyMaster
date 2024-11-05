@@ -1,0 +1,3 @@
+/home/nicholas/Osprey/build/CMakeFiles/client.dir
+/home/nicholas/Osprey/build/CMakeFiles/edit_cache.dir
+/home/nicholas/Osprey/build/CMakeFiles/rebuild_cache.dir
